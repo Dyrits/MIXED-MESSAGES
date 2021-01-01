@@ -37,7 +37,7 @@ Prerequisites:
 
 ## Screenshots
 
-![Output example](./output_example.png)
+![Output example](https://github.com/Dyrits/MIXED-MESSAGES/blob/main/output_example.png)
 
 ## Technologies and tools
 - JavaScript
