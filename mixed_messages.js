@@ -6,7 +6,7 @@ mixedMessages = [];
 
 const fillMessages = data => {
     const {characters, feelings, actions, objects} = data;
-    data.characters.forEach(character => {
+    characters.forEach(character => {
         mixedMessages.push(`${character} ${getElementFrom(feelings)} to ${getElementFrom(actions)} ${getElementFrom(objects)}.`)
     })
 }
