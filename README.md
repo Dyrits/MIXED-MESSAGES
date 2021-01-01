@@ -54,7 +54,7 @@ node mixed_messages.js
 Development completed (1.0) the 01/01/2021.
 
 ### Features
-Generate a random sentence for each character in the data using this template:
+Generate a random sentence for each character in the data using this template:  
 *[Character] [Feeling] to [Action] [Object].*
 
 ### Issues
