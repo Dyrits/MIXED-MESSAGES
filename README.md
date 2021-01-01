@@ -1,5 +1,5 @@
 # [Mixed Messages](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-portfolio-project/modules/fscp-mixed-messages/kanban_projects/mixed-messages)
-Mixed Messages is a message generator program.
+Mixed Messages is a Node.js console app that generates random messages each time a user runs the program.
 
 ## Table of contents
 - [Related content](#related-content)

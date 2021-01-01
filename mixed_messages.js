@@ -1,8 +1,8 @@
 const data = {
-    characters: ["Doggy the dog", "Catty the cat", "Dylan the human"],
-    feelings: ["likes", "dislikes", "loves", "is happy to", "is worried", "is afraid"],
-    actions: ["eat", "bark at", "sleep on", "look at", "laugh at"],
-    objects: ["spaghetti", "stranger", "needles", "horses", "bed", "red pepper"]
+    characters: ["Alfred", "Bruce", "Harvey"],
+    feelings: ["likes", "dislikes", "loves", "is happy", "hates"],
+    actions: ["eat", "yell at", "sleep on", "look at", "laugh at"],
+    objects: ["spaghetti", "stranger", "needles", "horses", "bed"]
 };
 
 const getElementFrom = array => array[Math.floor(Math.random() * array.length)];
